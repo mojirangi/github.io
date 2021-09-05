@@ -86,14 +86,14 @@
 }
 
 .card__container--closed .card__title {
-	color: #fff;
+	color: #000000;
 }
 
 .card__subtitle {
 	font-size: .95em;
 	line-height: 1;
 	margin: 5px 0 0;
-	color: #777778;
+	color: #000000;
 }
 
 .card__container--closed .card__subtitle {
