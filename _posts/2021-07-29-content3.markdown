@@ -1,20 +1,19 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
-author: "Wferr"
+title:  "환경위기시계."
+subtitle: "지금 지구는 몇시?"
+author: "박주열"
 avatar: "img/authors/wferr.png"
 image: "img/menu3.jpg"
 date:   2021-07-29 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
-
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
-
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
-
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
-
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+### 환경위기시계에 대해 아십니까?  
+  
+환경위기시계란 우리나라의 환경재단이 일본의 환경단체인 아사히그라스 재단과 함께 1992년부터 매년 환경위기 시각을 알려주는데, 이 시각을 알려주는 것이 환경위기시계 입니다.  
+지구환경의 악화 정도를 나타내는 환경위기 시각은 매년 한 번씩 세계 90여 나라의 정부, 지방자치 단체, 기업, NGO, 학계 등의 환경 전문가를 대상으로 설문 조사를 실시해서 알아냅니다.   
+환경 위기 시계는 시각에 따라 ’00:01~03:00 불안하지 않다, 03:01~06:00 조금 불안하다, 06:01~09:00 꽤 불안하다, 09:01~12:00 매우 불안하다‘로 구분합니다.  
+환경 위기 시계의 12시는 ‘인류가 생존할 수 있는 최후의 시각‘, 즉 ‘인류의 멸망’을 의미한다고 합니다.  
+2020년 지구의 시간은 9시 56분으로, 지구멸망 즉 12시까지 2시간 4분밖에 남지 않았습니다.  
+이미 지나온 시간은 되돌릴 수 없는 일반 시계와는 달리 환경위기시계는 뒤로 되돌아갈 수 있다고 합니다. 정말로 돌아갈 수 없기 전에 우리가 먼저 시간을 되돌리기 위해 노력하는것이 어떨까요?  
+  
+# 현재 아시아, 지구의 시각은 9시 57분  

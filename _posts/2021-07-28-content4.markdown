@@ -1,5 +1,5 @@
 ---
-title:  "Planes are cool!"
+title:  "나의 변화 지구의 변화"
 subtitle: "The Fly!"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
@@ -7,14 +7,20 @@ image: "img/menu4.jpg"
 date:   2021-07-28 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
-
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
-
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
-
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
-
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+## 불필요한 전등 끄기  
+불필요한 전등을 매일 1시간씩 끄면 한달에 1000만원을 절약할 수 있다.  
+또한 LED 조명으로 교체하면 백열등 전력의 1/8로 절약할 수 있다.  
+  
+## 이메일 삭제하기  
+23억명이 이메일 50개를 삭제하면 총 8,625,000GB를 절약할 수 있다.  
+이메일을 저장하는 데이터센터에서 1GB를 냉각시키는데 총 32kwh가 필요하다는걸 생각하면 23억명이 이메일을 50개씩 삭제했을때 총 276,000,000kwh를 절약할 수 있다. (=1시간동안 27억개의 전구를 끄는 것 만큼의 에너지 절약 가능)  
+  
+## 화장실에서 물 절약하기  
+샤워를 마친 후 샤워기 헤드에서 떨어지는 물을 세숫대야 등으로 받으면 화장실 청소할 때 등에 사용할 수 있다. 샤워시간을 5분 내로 단축시키면 그만큼의 물을 절약할 수 있다. 양치, 세수, 손 씻을 때 물을 잠그는 습관을 기르면 많은 양의 물을 절약할 수 있다. 느슨한 수도꼭지에서 물이 새지 않도록 잠근다.  
+  
+## 일회용 플라스틱 사용 줄이기  
+현지 1950~2015년까지 생산된 플라스틱의 총량은 83억톤이다. (=미국 엠파이어스테이트 빌딩 2만 5000개를 합한 무게)  
+현재 생산되는 플라스틱의 1/3은 페트병, 비닐과 같은 일회용품인데 이러한 일회용품은 단지 몇분, 몇초만에 쓰레기가 된다.  
+OECD국가 중 세계 분리수거율 2위가 한국이지만, 그 분리수거 된 플라스티그이 처리방법은 아직도 구시대적이고 (매립 등) 환경오염을 많이 유발시킨다.  
+바이오 플라스틱이라는 것이 있지만, 현재까지 100% 완벽분해되는 플라스틱은 존재하지 않는다. 폐기물 쓰레기로 전환하여 일회용 플라스틱을 태울 시에는 다이옥신이라는 안좋은 성분이 배출된다.  
+이 안좋은 플라스틱을 줄이기 위해서 우리는 장을 볼 때에는 에코백을 사용하고 카페에서는 일회용 플라스틱 컵과 빨대 대신 개인 텀블러를 사용하기만 해도 많은 양의 플라스틱을 줄일 수 있다.  
